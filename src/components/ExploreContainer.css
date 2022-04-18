@@ -22,3 +22,17 @@
 .container a {
   text-decoration: none;
 }
+
+.sideNav{
+  max-height: 100%;
+  max-width: 200px;
+  background-color: white;
+  color: black;
+
+}
+.main{
+  padding: auto;
+  max-height: 100%;
+  background-color: white;
+  color: black;
+}
